@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... researching and analyzing labor market trends in Northeast Ohio.
-- 🌱 I’m currently learning ... how to integrate APIs with Python and R to streamline research requests.
+- 🔭 I’m currently working on researching and analyzing labor market trends in Northeast Ohio.
+- 🌱 I’m currently learning how to integrate APIs with Python and R to streamline economic data requests.
 <!--
 **abbylogar/abbylogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
