@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on researching and analyzing labor market trends in Northeast Ohio.
-- 🌱 I’m currently learning how to integrate APIs with Python and R to streamline economic data requests.
+- 🔭 I’m currently working as a Research Associate at an economic development nonprofit, analyzing labor market trends in Northeast Ohio.
+- 🌱 I’m learning how to integrate APIs with Python and R to streamline economic data requests.
+- <a href="https://www.linkedin.com/in/abigail-logar-362b75160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--
 **abbylogar/abbylogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
